@@ -17839,7 +17839,7 @@ const a0 = x.createContext(void 0)
                         className: "w-8 h-8 text-cyan-400 group-hover:text-cyan-300 transition-colors duration-300 group-hover:rotate-12"
                     }), f.jsx("span", {
                         className: "text-white group-hover:text-cyan-400 transition-colors duration-300",
-                        children: "TheRealVenom"
+                        children: "_VortexShadow"
                     }), f.jsx("span", {
                         className: "text-cyan-400 group-hover:text-cyan-300 transition-colors duration-300 animate-pulse",
                         children: "."
@@ -18154,7 +18154,7 @@ const a0 = x.createContext(void 0)
                                 className: "w-full h-full rounded-full overflow-hidden modern-glass border-4 border-white/30 group-hover:border-white/50 transition-all duration-700 modern-morphing",
                                 children: f.jsx("img", {
                                     src: "/lovable-uploads/7c3c4bae-c8ce-4497-8217-a759cb11c627.png",
-                                    alt: "TheRealVenom Profile",
+                                    alt: "_VortexShadow Profile",
                                     className: "w-full h-full object-cover group-hover:scale-110 transition-all duration-700"
                                 })
                             }), f.jsx("div", {
@@ -18182,7 +18182,7 @@ const a0 = x.createContext(void 0)
                         })
                     }), f.jsx("h1", {
                         className: "text-9xl md:text-[16rem] font-montserrat font-black mb-16 modern-text-gradient leading-none tracking-tighter transform hover:scale-105 transition-all duration-700 cursor-default",
-                        children: "Venom"
+                        children: "_VortexShadow"
                     }), f.jsxs("div", {
                         className: "relative mb-12",
                         children: [f.jsx("div", {
@@ -18196,7 +18196,7 @@ const a0 = x.createContext(void 0)
                                 color: "hsl(var(--modern-text-primary))",
                                 animationDelay: "0.3s"
                             },
-                            children: "Discord Bots & Website Developer"
+                            children: "Discord Bots & Websites Developer"
                         }), f.jsx("div", {
                             className: "w-32 h-1 mx-auto rounded-full",
                             style: {
