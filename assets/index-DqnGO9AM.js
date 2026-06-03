@@ -17954,7 +17954,7 @@ const a0 = x.createContext(void 0)
                             className: "w-48 h-48 mx-auto rounded-full bg-gradient-to-br from-cyan-400 via-blue-500 to-purple-600 p-2 shadow-2xl animate-glow mb-8 pulse-glow",
                             children: f.jsx("img", {
                                 src: "/lovable-uploads/7c3c4bae-c8ce-4497-8217-a759cb11c627.png",
-                                alt: "TheRealVenom Profile",
+                                alt: "_VortexShadow Profile",
                                 className: "w-full h-full rounded-full object-cover border-4 border-white/20"
                             })
                         })
@@ -17962,7 +17962,7 @@ const a0 = x.createContext(void 0)
                         className: "text-8xl md:text-[12rem] font-montserrat font-bold mb-8 animate-scale-in",
                         children: f.jsx("span", {
                             className: "text-shimmer",
-                            children: "Venom"
+                            children: "_VortexShadow"
                         })
                     }), f.jsxs("div", {
                         className: "relative mb-10",
@@ -17973,7 +17973,7 @@ const a0 = x.createContext(void 0)
                             style: {
                                 animationDelay: "0.3s"
                             },
-                            children: "Discord Bot & Website Developer"
+                            children: "Discord Bot & Websites Developer"
                         }), f.jsx(Wn, {
                             className: "absolute -bottom-4 -right-4 w-6 h-6 text-blue-400 animate-pulse",
                             style: {
@@ -17992,7 +17992,7 @@ const a0 = x.createContext(void 0)
                                 children: "kiro"
                             }), ", nicknamed ", f.jsx("span", {
                                 className: "gradient-text font-semibold",
-                                children: "TheRealVenom"
+                                children: "_VortexShadow"
                             }), ". My skills are design and programming professionally. I program on my phone and design on my phone at the", f.jsx("span", {
                                 className: "text-cyan-400 font-semibold",
                                 children: " cheapest prices"
@@ -18218,7 +18218,7 @@ const a0 = x.createContext(void 0)
                                 children: "kiro"
                             }), ", nicknamed ", f.jsx("span", {
                                 className: "modern-text-gradient font-bold text-4xl",
-                                children: "TheRealVenom"
+                                children: "_VortexShadow"
                             }), ". My expertise lies in ", f.jsx("span", {
                                 className: "modern-text-gradient font-semibold",
                                 children: "revolutionary design"
@@ -18469,7 +18469,7 @@ const a0 = x.createContext(void 0)
                                     children: "kiro"
                                 }), ", nicknamed ", f.jsx("span", {
                                     className: "modern-text-gradient font-bold text-3xl",
-                                    children: "TheRealVenom"
+                                    children: "_VortexShadow"
                                 }), ". My expertise encompasses ", f.jsx("span", {
                                     className: "modern-text-gradient font-semibold",
                                     children: "revolutionary design"
@@ -19160,17 +19160,17 @@ const a0 = x.createContext(void 0)
                                     })]
                                 }), f.jsx("h3", {
                                     className: "text-4xl font-montserrat font-bold text-white mb-4 group-hover:text-cyan-400 transition-colors duration-300",
-                                    children: "VENOM COMMUNITY"
+                                    children: "Aetheria Network"
                                 }), f.jsx("p", {
                                     className: "text-cyan-400 text-xl font-semibold",
-                                    children: "Egyptian Community Server"
+                                    children: "Egyptian Network Server"
                                 }), f.jsxs("div", {
                                     className: "flex items-center justify-center gap-2 mt-4 text-slate-300",
                                     children: [f.jsx(Ml, {
                                         className: "w-5 h-5"
                                     }), f.jsx("span", {
                                         className: "text-lg",
-                                        children: "Premium Community Server"
+                                        children: "Premium Network Server"
                                     })]
                                 })]
                             }), f.jsxs("div", {
@@ -19182,7 +19182,7 @@ const a0 = x.createContext(void 0)
                                         className: "w-5 h-5"
                                     }), n ? "Hide Details" : "Show Details"]
                                 }), f.jsxs("a", {
-                                    href: "https://discord.gg/cHAFBP6VDn",
+                                    href: "https://discord.gg/uRt37RNh7Q",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "px-8 py-4 border-2 border-cyan-400 text-cyan-400 font-semibold rounded-2xl transition-all duration-500 hover:bg-cyan-400 hover:text-slate-900 hover:scale-110 hover:-translate-y-1 flex items-center justify-center gap-3 text-lg hover:shadow-2xl hover:shadow-cyan-400/30",
@@ -19216,17 +19216,17 @@ const a0 = x.createContext(void 0)
                                     })]
                                 }), f.jsx("h3", {
                                     className: "text-4xl font-montserrat font-bold text-white mb-4 group-hover:text-cyan-400 transition-colors duration-300",
-                                    children: "VMBL STORE"
+                                    children: "Shadow"
                                 }), f.jsx("p", {
                                     className: "text-cyan-400 text-xl font-semibold",
-                                    children: "Arabic Store Server"
+                                    children: "Arabic Server"
                                 }), f.jsxs("div", {
                                     className: "flex items-center justify-center gap-2 mt-4 text-slate-300",
                                     children: [f.jsx(Rl, {
                                         className: "w-5 h-5"
                                     }), f.jsx("span", {
                                         className: "text-lg",
-                                        children: "Premium Store Server"
+                                        children: "Premium Server"
                                     })]
                                 })]
                             }), f.jsxs("div", {
@@ -19238,7 +19238,7 @@ const a0 = x.createContext(void 0)
                                         className: "w-5 h-5"
                                     }), o ? "Hide Details" : "Show Details"]
                                 }), f.jsxs("a", {
-                                    href: "https://discord.gg/We4SvEeaNr",
+                                    href: "https://discord.gg/QJMqxNVe57",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "px-8 py-4 border-2 border-cyan-400 text-cyan-400 font-semibold rounded-2xl transition-all duration-500 hover:bg-cyan-400 hover:text-slate-900 hover:scale-110 hover:-translate-y-1 flex items-center justify-center gap-3 text-lg hover:shadow-2xl hover:shadow-cyan-400/30",
@@ -19318,7 +19318,7 @@ const a0 = x.createContext(void 0)
                 className: "max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center",
                 children: [f.jsx("div", {
                     className: "text-2xl font-semibold mb-6 md:mb-0 modern-text-gradient",
-                    children: "© 2025 TheRealVenom. All rights reserved."
+                    children: "© 2026 _VortexShadow. All rights reserved."
                 }), f.jsxs("div", {
                     className: "flex items-center gap-8",
                     children: [f.jsx("a", {
